@@ -1,22 +1,28 @@
-# Trabanhado com *Branchs* :cactus:
+## Jogo do Número Secreto e Desenvovendo com Branchs
 
->Ramificação, em controle de versão e gerenciamento de configuração de software, é a duplicação de um objeto sob **controle de versão** (como um arquivo de código-fonte ou uma árvore de diretório).
->Cada objeto pode, a partir daí, ser modificado separadamente e em paralelo para que os objetos se tornem diferentes.
->Neste contexto, os objetos são chamados de ramificações.
->Os usuários do sistema de controle de versão podem ramificar qualquer ramificação.
+# Descrição
+> Projeto desenvolvido com o intuito entreter o usuário e programar utilizando a função branch do GitHub.
 
->Branches também são conhecidos como trees, streams ou codelines.
->O branch de origem é algumas vezes chamado de branch pai, branch upstream (ou simplesmente upstream, especialmente se os branches são mantidos por diferentes organizações ou indivíduos), ou backing stream.
+> Como um simples jogo de sorteio não foi construido com o intuito de ser profundo, mas de entreter o usuário em sua tentativa de descobrir qual o número escolhido.
+> Desenvolvido em HTML, CSS e JavaScript, o projeto tenta entreter o usuário com um jogo de tentativa e erro com apenas algumas dicas para que o jogador não se frustre com muitas tentativas.
 
+# Motivo
+> Como um programador iniciante e recem introduzido ao GitHub o recurso de Vercionamento ainda é muito confuso, especialmente a função de ramificação.
+> Portanto para por em prática nosso conhecimento sobre o aplicativo e suas funções o Jogo do Número Secreto foi desenvolvido com alguns objetivos a serem alcançados:
 
-## Criando Ramifições
+- Conhecer o GitHub;
+- Aprofundar nossos conhecimentos sobre o Vercionamento;
+- Praticar os comandos do terminal;
+- Compreender o controle de versão e gerenciamento de configuração de software, Ramificação;
+- Desenvolver algo simples e divertido para a diversão do usuário;
+- Escrever um README corretamente.
 
->Os branches permitem que você desenvolva recursos, corrija erros ou experimente com segurança novas ideias em uma área contida do seu repositório.
+# Tecnologias
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
 
->Você sempre cria um branch a partir de um branch existente.
->Normalmente, você pode criar um novo branch a partir do branch-padrão do seu repositório.
->Você então poderá trabalhar nesse novo branch isolado das mudanças que outras pessoas estão fazendo no repositório.
->Um branch que você cria para produzir um recurso é comumente referido como um branch de recurso ou branch de tópico.
->Para obter mais informações, confira "Criar e excluir branches no repositório".
 
 
