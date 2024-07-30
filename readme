@@ -1,28 +1,42 @@
 ## Jogo do Número Secreto e Desenvovendo com Branchs
 
-# Descrição
-> Projeto desenvolvido com o intuito entreter o usuário e programar utilizando a função branch do GitHub.
+# :pencil2: Descrição
+> Projeto desenvolvido com o intuito entreter o usuário e programar utilizando a função branch :cactus: do GitHub.
 
-> Como um simples jogo de sorteio não foi construido com o intuito de ser profundo, mas de entreter o usuário em sua tentativa de descobrir qual o número escolhido.
+> Como um simples :video_game: jogo de sorteio não foi construido com o intuito de ser profundo, mas de entreter o usuário em sua tentativa de descobrir qual o número escolhido.
 > Desenvolvido em HTML, CSS e JavaScript, o projeto tenta entreter o usuário com um jogo de tentativa e erro com apenas algumas dicas para que o jogador não se frustre com muitas tentativas.
 
 # Motivo
-> Como um programador iniciante e recem introduzido ao GitHub o recurso de Vercionamento ainda é muito confuso, especialmente a função de ramificação.
-> Portanto para por em prática nosso conhecimento sobre o aplicativo e suas funções o Jogo do Número Secreto foi desenvolvido com alguns objetivos a serem alcançados:
+> Como um programador iniciante :neckbeard: e recem introduzido ao GitHub o recurso de Vercionamento ainda é muito confuso :confused:, especialmente a função de ramificação :herb:.
+> Portanto para por em prática nosso conhecimento sobre o aplicativo :persevere: e suas funções o Jogo do Número Secreto foi desenvolvido com alguns objetivos autoimpostos :muscle: a serem alcançados:
 
-- Conhecer o GitHub;
-- Aprofundar nossos conhecimentos sobre o Vercionamento;
-- Praticar os comandos do terminal;
-- Compreender o controle de versão e gerenciamento de configuração de software, Ramificação;
-- Desenvolver algo simples e divertido para a diversão do usuário;
-- Escrever um README corretamente.
+- Conhecer o GitHub; :heavy_check_mark:
+- Aprofundar nossos conhecimentos sobre o Vercionamento; :heavy_check_mark:
+- Praticar os comandos do terminal; :heavy_check_mark:
+- Compreender o controle de versão e gerenciamento de configuração de software, Ramificação; :heavy_check_mark:
+- Desenvolver algo simples e divertido para a diversão do usuário; :heavy_check_mark:
+- Escrever um README corretamente. :heavy_check_mark:
 
 # Tecnologias
 <div>
+- HTML
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+- CSS
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+- JavaScript
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
+
+# Considerações Finais
+
+> Com a conclusão deste projeto podemos afirmar que foi um sucesso. :satisfied:
+> O programa foi concluído com nenhum erro que possamos notar (:grey_exclamation:se bugs forem encontrados então pedimos a nossos clientes que enviem suas reclamações no nosso email, obrigado).
+> O GitHub não é a mais complexa ferramenta que já utilizamos, porem o novo desafio foi animador pois nos inspiram a melhorar, e suas :wrench: ferramentas são simples e intuitivas.
+> E com este último commit concluimos este projeto. Obrigado a todos que tiveram a disposição de tentar entender este projeto. :wave:
+
+
+
+
 
 
 
